@@ -3,9 +3,6 @@
 
 *   Getting Started
 
-Simulator
-=========
-
 Prerequisites
 -------------
 
