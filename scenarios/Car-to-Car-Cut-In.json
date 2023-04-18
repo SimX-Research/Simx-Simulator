@@ -1,0 +1,194 @@
+{
+  "tagged_actors": [],
+  "trigger_boxes": [],
+  "vehicles": [
+    {
+      "behavior_settings": {
+        "destroy_on_collision": false,
+        "ignore_lane_change_boxes": false,
+        "ignore_other_vehicles": false,
+        "ignore_traffic_signals": false,
+        "initial_speed_is_delta": true,
+        "lane_change_safely": true,
+        "limit_speed_in_curves": true,
+        "obey_road_speed_limits": false,
+        "overtake_timer_trigger": 3.5,
+        "should_overtake_slower_vehicles": false,
+        "snap_to_lane": true
+      },
+      "body_color": "Carpaint_OliveGreen",
+      "class_path": "/Game/Vehicles/compact_simple_01.compact_simple_01_C",
+      "controller_settings": {
+        "auto_control_mode": true,
+        "car_charts": false,
+        "debug_drawing": false,
+        "deceleration_constraints": {
+          "x": -350.0,
+          "y": -700.0
+        },
+        "distance_to_stop_sign": 400.0,
+        "initial_speed": 30.0,
+        "lane_change_comfort_proximity": 600.0,
+        "lane_change_steer_clamp_curve": null,
+        "lane_change_transition_distance": 40.0,
+        "lane_offset": 0.0,
+        "rolling_stop_speed": 0.0010000000474974513,
+        "search_forward_distance": 10000.0,
+        "set_speed": 30.0,
+        "spawn_offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "steer_forward_distance": {
+          "x": 550.0,
+          "y": 550.0
+        },
+        "steer_forward_distance_lane_change": {
+          "x": 1500.0,
+          "y": 1500.0
+        },
+        "steer_forward_speed": {
+          "x": 0.0,
+          "y": 60.0
+        },
+        "turn_preference": 3
+      },
+      "instance_components": [],
+      "location": {
+        "x": 15074.7861328125,
+        "y": 187.65048217773438,
+        "z": 37.855743408203125
+      },
+      "name": "sedan_01_C_4",
+      "rotation": {
+        "pitch": 0.0,
+        "roll": 0.0,
+        "yaw": 0.7301404476165771
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "tagged_components": [],
+      "tags": [
+        "vehicle",
+        "dynamic",
+        "car"
+      ],
+      "trigger_component": {
+        "debug_draw": false,
+        "descriptions": [
+          {
+            "distance": -23.0,
+            "lane": -1,
+            "other_description": {
+              "can_stay_in_lane": false,
+              "change_lane_left": false,
+              "change_lane_right": false,
+              "next_turn_center": false,
+              "next_turn_left": false,
+              "next_turn_right": false,
+              "num_lanes": 1,
+              "should_speed_change": false,
+              "speed_change": 50.0
+            },
+            "owner_description": {
+              "can_stay_in_lane": false,
+              "change_lane_left": true,
+              "change_lane_right": false,
+              "next_turn_center": false,
+              "next_turn_left": false,
+              "next_turn_right": false,
+              "num_lanes": 1,
+              "should_speed_change": false,
+              "speed_change": 30.0
+            },
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          }
+        ]
+      }
+    },
+    {
+      "behavior_settings": {
+        "destroy_on_collision": false,
+        "ignore_lane_change_boxes": false,
+        "ignore_other_vehicles": false,
+        "ignore_traffic_signals": false,
+        "initial_speed_is_delta": true,
+        "lane_change_safely": true,
+        "limit_speed_in_curves": true,
+        "obey_road_speed_limits": true,
+        "overtake_timer_trigger": 3.5,
+        "should_overtake_slower_vehicles": false,
+        "snap_to_lane": true
+      },
+      "body_color": "Carpaint_DarkGrey",
+      "class_path": "/Game/Vehicles/compact_simple_01.compact_simple_01_C",
+      "controller_settings": {
+        "auto_control_mode": true,
+        "car_charts": false,
+        "debug_drawing": false,
+        "deceleration_constraints": {
+          "x": -350.0,
+          "y": -700.0
+        },
+        "distance_to_stop_sign": 300.0,
+        "initial_speed": 0.0,
+        "lane_change_comfort_proximity": 600.0,
+        "lane_change_steer_clamp_curve": null,
+        "lane_change_transition_distance": 40.0,
+        "lane_offset": 0.0,
+        "rolling_stop_speed": 0.0010000000474974513,
+        "search_forward_distance": 15000.0,
+        "set_speed": 0.0,
+        "spawn_offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "steer_forward_distance": {
+          "x": 300.0,
+          "y": 1800.0
+        },
+        "steer_forward_distance_lane_change": {
+          "x": 800.0,
+          "y": 2500.0
+        },
+        "steer_forward_speed": {
+          "x": 0.0,
+          "y": 60.0
+        },
+        "turn_preference": 3
+      },
+      "instance_components": [],
+      "location": {
+        "x": 9205.736328125,
+        "y": -235.04837036132813,
+        "z": 30.0
+      },
+      "name": "compact_simple_01_8",
+      "rotation": {
+        "pitch": 0.0,
+        "roll": 0.0,
+        "yaw": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "tagged_components": [],
+      "tags": [
+        "vehicle",
+        "dynamic",
+        "ego"
+      ]
+    }
+  ]
+}
