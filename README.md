@@ -1,5 +1,6 @@
 # Simx-Simulator
 
+The Simx Simulator provides users with the ability to test AV algorithms in one of several pre-made Simx Simulator levels. The Open Source Simx clients provide an API and examples for connecting to the Simulator for simulating traffic scenarios and replaying Simx trajectory files. The clients allow users to configure and test any number of configurations of monoDrive high-fidelity sensors.
 
 *   Getting Started
 
