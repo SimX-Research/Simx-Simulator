@@ -1,6 +1,6 @@
 # Simx-Simulator
 
-The Simx Simulator provides users with the ability to test AV and AMR algorithms in one of several pre-made Simx Simulator levels. The Open Source Simx clients provide an API and examples for connecting to the Simulator for simulating traffic scenarios and replaying Simx trajectory files. The clients allow users to configure and test any number of configurations of monoDrive high-fidelity sensors.
+The Simx Simulator provides users with the ability to test AV and AMR algorithms in one of several pre-made Simx Simulator levels. The Open Source Simx clients provide an API and examples for connecting to the Simulator for simulating traffic scenarios and replaying Simx trajectory files. The clients allow users to configure and test any number of configurations of Simx high-fidelity sensors.
 
 ![image](https://user-images.githubusercontent.com/131154677/233154122-c1f98b0d-5313-492b-be7e-8ecb076e0f72.png)
 
