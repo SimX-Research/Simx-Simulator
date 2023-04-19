@@ -25,6 +25,7 @@ Windows Simulator
 3.  Extract the archive to a common location like `C:/SimxAI`.
 4.  If downloading for the first time, you will need to download the license.txt file , unless one has been provided directly from simx.ai. Copy the attached lic.txt file to the extracted location `C:/SimxAI/lic.txt`.
 5.  Run the simulator by launching `C:/SimxAI/Simx.exe`.
+6.  Run LabVIEW Example `Autonomous Mobile Robots.vi`
 
 Linux Simulator
 ---------------
