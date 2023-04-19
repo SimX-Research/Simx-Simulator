@@ -20,10 +20,11 @@ Prerequisites
 
 Windows Simulator
 -----------------
-
-1.  Extract the archive to a common location like `C:/SimxAI`.
-2.  If downloading for the first time, you will need to download the license.txt file , unless one has been provided directly from simx.ai. Copy the attached lic.txt file to the extracted location `C:/SimxAI/lic.txt`.
-3.  Run the simulator by launching `C:/SimxAI/Simx.exe`.
+1.  Clone this repo for LabVIEW API
+2.  Download the Simulator https://drive.google.com/drive/folders/1p8bt2IKcjN6ag92KVQXSFHTU-kftmD0Z?usp=share_link
+3.  Extract the archive to a common location like `C:/SimxAI`.
+4.  If downloading for the first time, you will need to download the license.txt file , unless one has been provided directly from simx.ai. Copy the attached lic.txt file to the extracted location `C:/SimxAI/lic.txt`.
+5.  Run the simulator by launching `C:/SimxAI/Simx.exe`.
 
 Linux Simulator
 ---------------
