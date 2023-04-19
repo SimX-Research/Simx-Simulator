@@ -21,7 +21,7 @@ Prerequisites
 Windows Simulator
 -----------------
 1.  Clone this repo for LabVIEW API
-2.  Download the Simulator https://drive.google.com/drive/folders/1p8bt2IKcjN6ag92KVQXSFHTU-kftmD0Z?usp=share_link
+2.  Download the Simulator https://drive.google.com/drive/folders/1p8bt2IKcjN6ag92KVQXSFHTU-kftmD0Z
 3.  Extract the archive to a common location like `C:/SimxAI`.
 4.  If downloading for the first time, you will need to download the lic.txt file , you can request lic.txt by contact info@simx.ai . 
 5.  Copy the attached lic.txt file to the extracted location `C:/SimxAI/lic.txt`.
