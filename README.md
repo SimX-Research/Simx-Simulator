@@ -4,7 +4,7 @@ The Simx Simulator provides users with the ability to test AV and AMR algorithms
 
 Checkout our Traning Course for Sensors Simulation for Autonomous Systems using SimXai Simulator and LabVIEW
 
-https://www.udemy.com/course/sensors-simulation-for-autonomous-systems/?referralCode=11E7C916EDDA7A0FFCBD
+https://www.udemy.com/course/sensors-simulation-for-autonomous-systems/?couponCode=CCF209A974FDE3677ED5
 
 ![image](https://user-images.githubusercontent.com/131154677/233154122-c1f98b0d-5313-492b-be7e-8ecb076e0f72.png)
 
