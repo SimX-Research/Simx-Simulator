@@ -32,12 +32,6 @@ Windows Simulator
 6.  Run the simulator by launching `C:/SimxAI/Simx.exe`.
 7.  Run LabVIEW Example `Autonomous Mobile Robots.vi`
 
-Linux Simulator
----------------
-
-1.  Extract the archive to a common location like `~/SimxAI`.
-2.  If downloading for the first time, you will need to download the license.txt file , unless one has been provided directly from simx. Copy the attached license.txt file to the extracted location `~/SimxAI/lic.txt`.
-3.  Run the simulator by navigating the `~/SimxAI/Simx` directory and running the shell script `Simx.sh`.
 
 Open Source Clients
 -------------------
