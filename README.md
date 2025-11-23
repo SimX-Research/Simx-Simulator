@@ -23,11 +23,8 @@ Windows Simulator
 -----------------
 1.  Clone this repo for LabVIEW API , Support LabVIEW 2019 or later
 2.  Download the Simulator [Simx-Simulator](https://drive.google.com/drive/folders/1p8bt2IKcjN6ag92KVQXSFHTU-kftmD0Z)
-3.  Extract the archive to a common location like `C:/SimxAI`.
-4.  If downloading for the first time, you will need to download the lic.txt file , you can request lic.txt by contact info@simx.ai . 
-5.  Copy the attached lic.txt file to the extracted location `C:/SimxAI/lic.txt`.
-6.  Run the simulator by launching `C:/SimxAI/Simx.exe`.
-7.  Run LabVIEW Example `Autonomous Mobile Robots.vi`
+3.  Run the simulator by launching `../SimxAI/Simx.exe`.
+4.  Run LabVIEW Example `Autonomous Mobile Robots.vi`
 
 
 Open Source Clients
