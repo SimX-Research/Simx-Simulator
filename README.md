@@ -21,7 +21,7 @@ Prerequisites
 
 Windows Simulator
 -----------------
-1.  Clone this repo for LabVIEW API , Support LabVIEW 2019 or later
+1.  Clone this repo for LabVIEW API , Support LabVIEW 2025 or later
 2.  Download the Simulator [Simx-Simulator](https://drive.google.com/drive/folders/1p8bt2IKcjN6ag92KVQXSFHTU-kftmD0Z)
 3.  Run the simulator by launching `../SimxAI/Simx.exe`.
 4.  Run LabVIEW Example `Autonomous Mobile Robots.vi`
